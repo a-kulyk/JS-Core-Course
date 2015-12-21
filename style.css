@@ -1,0 +1,30 @@
+html {
+    display: table;
+    margin: auto;
+}
+
+body {
+    display: table-cell;
+}
+
+#textBox {
+    width: 250px;
+    margin: 30px 10px 0 0;
+}
+
+input {
+    width: 94px;
+}
+
+table {
+    margin-top: 20px;
+}
+
+td {
+    padding: 5px 0;
+    width: 252px;
+}
+
+.btnDelete {
+    margin-left: 12px;
+}
