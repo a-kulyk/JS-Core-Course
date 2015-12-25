@@ -7,13 +7,27 @@ body {
     display: table-cell;
 }
 
-#textBox {
+#start {
+    padding: 20px 150px;
+}
+
+#newList {
+    width: 122px;
+}
+
+.textBox {
     width: 250px;
     margin: 30px 10px 0 0;
 }
 
-input {
+button {
     width: 94px;
+}
+
+input[type] {
+    height: 29px;
+    margin-left: 20px;
+    vertical-align: middle;
 }
 
 table {
@@ -26,5 +40,5 @@ td {
 }
 
 .btnDelete {
-    margin-left: 12px;
+    margin-left: 8px;
 }
