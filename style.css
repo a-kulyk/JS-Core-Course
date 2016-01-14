@@ -7,6 +7,11 @@ body {
     display: table-cell;
 }
 
+div {
+    margin-right: 30px;
+    display: inline-block;
+}
+
 #start {
     padding: 20px 150px;
 }
@@ -16,8 +21,8 @@ body {
 }
 
 .textBox {
-    width: 250px;
-    margin: 30px 10px 0 0;
+    width: 300px;
+    margin-top: 30px;
 }
 
 button {
@@ -25,18 +30,18 @@ button {
 }
 
 input[type] {
-    height: 29px;
+    height: 25px;
     margin-left: 20px;
     vertical-align: middle;
 }
 
 table {
-    margin-top: 20px;
+    margin-top: 30px;
 }
 
 td {
     padding: 5px 0;
-    width: 252px;
+    width: 195px;
 }
 
 .btnDelete {
